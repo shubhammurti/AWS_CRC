@@ -36,6 +36,9 @@ const Home = () => {
                   steps={[
                     "Cloud Engineer",
                     "AI Enthusiast",
+                    "Cloud Enthusiast",
+                    "Jr. Cloud Engineer",
+                    "Learning AWS Core",
                     1000,
                   ]}
                   loop={Infinity}

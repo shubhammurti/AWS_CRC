@@ -80,10 +80,6 @@ After completing the backend API and the frontend of my portfolio website, the n
 
 **Dealing with CORS Issues** One of the toughest hurdles I faced during the frontend and backend integration was dealing with CORS (Cross-Origin Resource Sharing) issues. CORS proved to be a tricky problem to solve in this context. It took several days of troubleshooting to get everything working correctly. However, in the end, I managed to overcome the issues, ensuring smooth communication between the frontend and backend.
 
-One more thing I have to say, which helps to complete these chunks, is the visualization, or you can say the diagram.
-
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jco5jyi3o7966nicpsi9.jpeg)
-
 ### Key Takeaways
 This chunk of the project helped me understand the importance of seamless integration between the frontend and backend. Learning how to implement real-time features like the visitor counter and dealing with CORS taught me valuable lessons in troubleshooting and debugging. The hands-on experience with Cypress also gave me a strong foundation in web testing, which I’ll be able to apply in future cloud projects.
 
